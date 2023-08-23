@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jacob.binu/AndroidStudioProjects/CPP Projects",
-      "program": "c:/Users/jacob.binu/AndroidStudioProjects/CPP Projects/build/Debug/outDebug",
+      "cwd": "c:/Users/jacob.binu/CPP Projects",
+      "program": "c:/Users/jacob.binu/CPP Projects/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
